@@ -1,0 +1,21 @@
+Start testing: Dec 15 00:25 CET
+----------------------------------------------------------
+1/1 Testing: boostUnitTestsRun
+1/1 Test: boostUnitTestsRun
+Command: "/home/tomasz/Desktop/Mapy/Debug/tests/aisdiMapsTests"
+Directory: /home/tomasz/Desktop/Mapy/Debug/tests
+"boostUnitTestsRun" start time: Dec 15 00:25 CET
+Output:
+----------------------------------------------------------
+Running 294 test cases...
+
+*** No errors detected
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"boostUnitTestsRun" end time: Dec 15 00:25 CET
+"boostUnitTestsRun" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 15 00:25 CET

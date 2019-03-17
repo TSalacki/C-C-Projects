@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1515702726 source:/home/tomasz/Desktop/Grafy/main.cpp
+	<iostream>
+	<fstream>
+	"Graph.hpp"
+
+1515702495 /home/tomasz/Desktop/Grafy/Graph.hpp
+	<vector>
+

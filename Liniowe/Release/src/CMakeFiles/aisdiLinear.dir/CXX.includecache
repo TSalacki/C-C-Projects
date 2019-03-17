@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mion/s/166/tsalacki/Desktop/Liniowe (2)/src/LinkedList.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+
+/home/mion/s/166/tsalacki/Desktop/Liniowe (2)/src/Vector.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+
+/home/mion/s/166/tsalacki/Desktop/Liniowe (2)/src/main.cpp
+cstddef
+-
+cstdlib
+-
+string
+-
+iostream
+-
+chrono
+-
+ctime
+-
+Vector.h
+/home/mion/s/166/tsalacki/Desktop/Liniowe (2)/src/Vector.h
+LinkedList.h
+/home/mion/s/166/tsalacki/Desktop/Liniowe (2)/src/LinkedList.h
+
