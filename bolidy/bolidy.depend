@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1513099005 source:/home/tomasz/Desktop/bolidy/main.cpp
+	<iostream>
+	<pthread.h>
+	<thread>
+	"monitor.h"
+
+1513099062 /home/tomasz/Desktop/bolidy/monitor.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string.h>
+	<errno.h>
+	<fcntl.h>
+	<pthread.h>
+	<unistd.h>
+	<semaphore.h>
+
